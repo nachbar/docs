@@ -1,5 +1,5 @@
 ---
-title: Add API and database
+title: Connect DataStore to API
 description: Getting Started with Amplify Libraries - how to add API and database to your app.
 ---
 
